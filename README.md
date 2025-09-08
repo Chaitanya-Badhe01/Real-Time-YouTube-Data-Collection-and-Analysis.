@@ -154,6 +154,5 @@ YouTube Data API v3 for data access.
 
 Open-source Python libraries: Pandas, Seaborn, Matplotlib.
 
-Tutorials and references from Kaggle & documentation pages.
 
 
